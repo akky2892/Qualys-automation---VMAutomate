@@ -1,5 +1,6 @@
 # Qualys-automation---VMAutomate
-VMAutomate tool is used to automate Qualys Vulnerability management process by using Qualys API's. The script is written in python and uses multiple qualys APIs to perform the tasks. This comes handy when you want to store all of your qualys VM data in local sql database and perform flexile sql queries on the data to fulfill any kind of customised requirement/dashboard view.
+VMAutomate tool is used to automate Qualys Vulnerability management process by using Qualys API's. The script is written in python and uses multiple qualys APIs to perform the tasks. 
+This comes handy when you want to store all of your qualys VM data in local sql database and perform flexile sql queries on the data to fulfill any kind of customised requirement/dashboard view.
 
 The tool basically performs below mentioned activities :-
 1. Report launching ,report fetching and storing report in sqlite database.
