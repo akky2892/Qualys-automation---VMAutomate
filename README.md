@@ -8,7 +8,9 @@ The tool basically performs below mentioned activities :-
 3. Fetching User account details and storing it in sqlite database.
 
 Usage : script.py -h -u : Qualys Username -p : Qualys Password
+
 Python 3.8 version
+
 Modifications before script execution:
 1. Qualys Client/Region specific API URL
 2. Report template ID : Read qualys documentation for generating report template
