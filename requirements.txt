@@ -1,0 +1,15 @@
+sqlite3
+requests
+pandas
+os
+csv
+time
+tqdm
+sys, getopt
+codecs
+warnings
+pprint
+json
+pyfiglet
+openpyxl
+datetime
